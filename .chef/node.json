@@ -1,0 +1,8 @@
+{
+  // a list of Chef recipe to run ( order IS relevant )
+  "run_list": [
+    "apt", "build-essential", "vim"
+  ],
+  // if you need to specify recipe configuration, do it below
+  "cookbookName": { /* values */ }
+}

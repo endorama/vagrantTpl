@@ -1,0 +1,4 @@
+# Chef and Vagrant
+.chef/cookbooks/
+.chef/logs/
+.vagrant/

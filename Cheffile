@@ -1,0 +1,13 @@
+site "http://community.opscode.com/api/v1"
+
+# Base packages
+cookbook 'apt'
+cookbook 'build-essential'
+cookbook 'vim'
+
+# NodeJs
+# cookbook 'nodejs', '~> 2.2.0'
+# cookbook 'mongodb', '~> 0.16.2'
+
+# Key Value DB
+# cookbook 'redis2', '~> 0.5.1'
